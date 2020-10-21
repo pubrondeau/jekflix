@@ -1,13 +1,16 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Jekife
+title: Jekife | un site pour trouver un parrain
+description: Jekife est un site pour trouver un parrain chez Boursorama, ING,
+  Planete Oui, Pretup, Sosh
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - parrain
+  - parrainage
+  - gain
+  - euros
+  - boursorama
+  - ing
+  - pretup
+  - sosh
 show_hero: true
 menu:
   - title: Home
@@ -19,4 +22,4 @@ menu:
   - title: Feed
     url: /feed.xml
 email: pubrondeau@gmail.com
-disqus_username: disqus_username
+disqus_username: ""
