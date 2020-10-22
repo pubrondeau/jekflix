@@ -6,10 +6,9 @@ subtitle: La banque au quotidien sans frais
 description: La banque au quotidien sans frais
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
-category: blog
+category: code
 tags:
-  - welcome
-  - blog
+  - code
 author: emmanuelrondeau
 paginate: true
 ---
