@@ -1,0 +1,5 @@
+button:
+  read_now: Voir
+contact:
+  errors:
+    locale: fr
