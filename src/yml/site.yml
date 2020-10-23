@@ -23,3 +23,6 @@ menu:
     url: /feed.xml
 email: pubrondeau@gmail.com
 disqus_username: ""
+translations :
+- button:
+  read_now: Voir
