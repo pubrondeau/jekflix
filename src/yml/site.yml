@@ -24,5 +24,5 @@ menu:
 email: pubrondeau@gmail.com
 disqus_username: ""
 translations :
-- button:
-  read_now: Voir
+  button:
+     read_now: Voir
