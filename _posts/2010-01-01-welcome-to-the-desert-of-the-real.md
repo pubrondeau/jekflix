@@ -12,7 +12,7 @@ tags:
 author: emmanuelrondeau
 paginate: false
 ---
-La banque
+××La banque
 la moins chère.
 Boursorama Banque est de nouveau classée banque la moins chère…et pour la 12e année consécutive ! Retrouvez le détail du Classement Le Monde en Décembre 2019 : Source Le Monde / MeilleureBanque.com - Décembre 2019 Détail – Source des Classements et études tarifaires depuis 2009 Détail
 À vous de calculer les économies que vous pourriez réaliser sur vos frais bancaires !
