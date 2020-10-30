@@ -3,7 +3,7 @@ date: 2020-10-30 12:26:40
 layout: post
 title: Planete Oui
 subtitle: Un fournisseur d'électricité verte innovant et pas cher
-description: parrainage planete oui, fournisseur electrcite verte pas cher
+description: parrainage planete oui, fournisseur electricite verte pas cher
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
 category: life
