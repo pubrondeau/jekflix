@@ -28,3 +28,4 @@ translations :
      read_now: Voir
  recommendation :
      text : Pourquoi ne pas lire un autre article?
+     back_btn : Retour en haut
