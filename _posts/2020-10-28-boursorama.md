@@ -18,7 +18,7 @@ Pour la **12ème** année consécutive Boursorama Banque est de nouveau classée
 
 Plus de **180 €** d’économies en moyenne sur vos frais bancaires.
 
-**80€**  offerts par Boursorama + 7**0€** de ma prime si je vous parraine
+**80€**  offerts par Boursorama + 7**0€** de ma prime si je vous parraine en suivant le lien "je kife ..."  
 
 > [Je kife boursorama.](https://bour.so/5QiIQz5DLm)
 
