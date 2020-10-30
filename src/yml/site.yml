@@ -29,3 +29,5 @@ translations:
   recommendation:
      text: Pourquoi ne pas lire un autre article?
      back_btn: Retour en haut
+  text:
+    see_also: Voir aussi
