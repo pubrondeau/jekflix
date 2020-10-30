@@ -12,7 +12,7 @@ tags:
 author: emmanuelrondeau
 paginate: true
 ---
-## Boursorama vous offre le meilleur !
+### Boursorama vous offre le meilleur !
 
 Pour la **12ème** année consécutive Boursorama Banque est de nouveau classée **banque la moins chère!**
 
@@ -22,38 +22,23 @@ Plus de **180 €** d’économies en moyenne sur vos frais bancaires.
 
 > [Je kife boursorama.](https://bour.so/5QiIQz5DLm)
 
-Et je vous le prouve ...
+### Services proposés gratuitement
 
-* votre carte bancaire gratuite si utilisée au moins une fois par mois
-* de nombreux services à 0 € :
+\- carte bancaire VISA est gratuite si utilisée au moins une fois par mois
 
-  * Aucun frais de tenue de compte
-  * Un large choix de cartes VISA gratuites **dont la VISA PREMIER**
-  * 0€ sur tous les paiements et retraits en euros
-  * 0€ sur tous les paiements et retraits en devises avec Ultim
-  * Virements instantanés gratuits en 10 secondes
+\- Aucun frais de tenue de compte
 
-## 100 % mobile, autonome et sécurisé
+\- Virements instantanés gratuits en 10 secondes
 
-* virement instantané
+\- Payez sans contact Avec les solutions de paiement mobile chez Boursorama Banque (Apple Pay, Samsung Pay
+Google Pay, ...) ou  Paylib pour vos achats en ligne et en toute sécurité.
 
-Ce service innovant vous permet en 10 secondes seulement d'envoyer gratuitement une somme d'argent(7) à partir de votre compte bancaire Boursorama Banque(8), mais aussi de recevoir (gratuitement également) des fonds d'un tiers sur ce même compte(9). 
+\- Verrouillage et déverrouillage en ligne de votre carte bancaire.
 
-* découvert, c'est autorisé
+\- Modifcation des plafonds carte bancaires
 
-Besoin de trésorerie, dépense importante ou imprévue, être à découvert, ça arrive. Pour vous faciliter la vie, pouvez modifier votre découvert autorisé indépendamment en toute autonomie. 
+\- Alerte SMS pour opérations > 200€
 
-* Pilotez votre carte bancaire 
-
-Vous souhaitez retirer une somme d'argent importante ? Vous avez besoin d'une capacité de paiement supérieure ? Augmentez les plafonds de votre carte bancaire facilement et instantanément ! Faire face à toutes ses dépenses en quelques clics, ça change la vie !
-
-* Payez sans contact
-
-  * Avec les solutions de paiement mobile chez Boursorama Banque (Apple Pay, Samsung Pay
-    Google Pay, ...)
-  * Avec Paylib, pour vos achats en ligne et en toute sécurité
-* Verrouiller et déverrouiller sa carte bancaire en un instant 
-
-Boursorama Banque pense à vous et innove, avec le verrouillage et déverrouillage en ligne de votre carte bancaire. C'est simple, gratuit, réversible et immédiat !
+\- Possibilité de devenir parrain tout comme moi
 
 > [Je kife boursorama.](https://bour.so/5QiIQz5DLm)
