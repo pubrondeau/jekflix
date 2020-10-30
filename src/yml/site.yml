@@ -23,9 +23,9 @@ menu:
     url: /feed.xml
 email: pubrondeau@gmail.com
 disqus_username: ""
-translations :
+translations:
   button:
      read_now: Voir
- recommendation :
-     text : Pourquoi ne pas lire un autre article?
-     back_btn : Retour en haut
+  recommendation:
+     text: Pourquoi ne pas lire un autre article?
+     back_btn: Retour en haut
