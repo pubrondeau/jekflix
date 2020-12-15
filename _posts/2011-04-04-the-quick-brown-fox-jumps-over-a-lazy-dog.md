@@ -2,9 +2,8 @@
 date: 2020-12-16 00:09:56
 layout: post
 title: Pretup
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-  eiusmod tempor incididunt ut labore et dolore magna aliqua.
+subtitle: Financement des entreprises par les particuliers sous forme de prets rémunérés
+description: plateforme de prêts participatifs, crowdlending, crowfunding
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1506079212/jekflix-capa_vfhuzh.png
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1506079212/jekflix-capa_vfhuzh.png
 category: css
