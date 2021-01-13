@@ -24,7 +24,7 @@ Cumulable avec les promotions et code promos.\
 ex: achat d'une plaque induction à 799€, valeur réellement payée = 709€.\
 799€ - 20€ de prime parrainage - 70€ ( réduction via un code directement sur le site UBALDI 10€ par tranche d'achat de 100€).\
 \
-Faites comme moi et profitez d'offres alléchantes en suivant le lien de parrainage : https://www.ubaldi.com/p/BYXKyTV
+Faites comme moi et profitez d'offres alléchantes en suivant le lien de parrainage : https://www.ubaldi.com/espace-perso/inscription.php?pri=inv&xtor=CS3-1106072762-8870230-20210113-%5BEMAIL%5D
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
