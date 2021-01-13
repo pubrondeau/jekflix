@@ -2,9 +2,8 @@
 date: 2021-01-13 14:13:06
 layout: post
 title: UBALDI
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-  eiusmod tempor incididunt ut labore et dolore magna aliqua.
+subtitle: Site e-commerce fiable avec plein de promotions
+description: parrainage UBALDI, parmi les 3 meilleurs site e-commerce électronique
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
 category: life
