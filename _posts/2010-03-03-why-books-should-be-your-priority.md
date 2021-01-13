@@ -14,6 +14,18 @@ author: thiagorossener
 paginate: true
 ---
 
+
+Noté 4.5/5 ( excellent) sur trustpilot.com.
+
+20€ offerts chez UBALDI, le site e-commerce qui offre des promos permanentes.\
+Bon d'achat valable pour un achat supérieur à 100 €.\
+Cumulable avec les promotions et code promos.\
+\
+ex: achat d'une plaque induction à 799€, valeur réellement payée = 709€.\
+799€ - 20€ de prime parrainage - 70€ ( réduction via un code directement sur le site UBALDI 10€ par tranche d'achat de 100€).\
+\
+Faites comme moi et profitez d'offres alléchantes en suivant le lien de parrainage : https://www.ubaldi.com/p/BYXKyTV
+
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
@@ -26,12 +38,12 @@ Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur puru
 
 HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+* **To bold text**, use `<strong>`.
+* *To italicize text*, use `<em>`.
+* Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
+* Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
+* <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
+* Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
 
 Most of these elements are styled by browsers with few modifications on our part.
 
@@ -135,13 +147,3 @@ Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, conse
 <!--page-->
 
 Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-
-
-
-
-
-
-
-
-
