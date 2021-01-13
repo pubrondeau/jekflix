@@ -8,6 +8,6 @@ category: blog
 tags:
   - matelas
 author: emmanuelrondeau
-paginate: false
+paginate: true
 ---
 # 40 ans d'expertise au service de vos nuits
