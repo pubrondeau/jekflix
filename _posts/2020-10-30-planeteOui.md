@@ -6,7 +6,7 @@ subtitle: Un fournisseur d'électricité verte innovant et pas cher
 description: parrainage planete oui, fournisseur electricite verte pas cher
 image: https://res.cloudinary.com/jekife/image/upload/v1604445949/planeteOui_bvavwt.jpg
 optimized_image: https://res.cloudinary.com/jekife/image/upload/v1604445949/planeteOui_bvavwt.jpg
-category: life
+category: "{{slug}}"
 tags:
   - life
   - tips
