@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Code
+title: Shopping
 slug: code
-description: A category for code related posts.
+description: Une categorie shopping
 ---
