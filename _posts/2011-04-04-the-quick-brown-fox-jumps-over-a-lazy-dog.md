@@ -4,8 +4,8 @@ layout: post
 title: Pretup
 subtitle: Financement des entreprises par les particuliers sous forme de prets rémunérés
 description: plateforme de prêts participatifs, crowdlending, crowfunding
-image: https://res.cloudinary.com/jekife/image/upload/v1610559807/crowfunding_rgacbg.jpg
-optimized_image: https://res.cloudinary.com/jekife/image/upload/v1610559807/crowfunding_rgacbg.jpg
+image: https://res.cloudinary.com/jekife/image/upload/v1610560475/pretup_gbjlqz.png
+optimized_image: https://res.cloudinary.com/jekife/image/upload/v1610560475/pretup_gbjlqz.png
 category: finance
 tags:
   - finance
