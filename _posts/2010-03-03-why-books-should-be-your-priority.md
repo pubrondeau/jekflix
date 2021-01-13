@@ -22,9 +22,15 @@ Bon d'achat valable pour un achat supérieur à 100 €.\
 Cumulable avec les promotions et code promos.\
 \
 ex: achat d'une plaque induction à 799€, valeur réellement payée = 709€.\
-799€ - 20€ de prime parrainage - 70€ ( réduction via un code directement sur le site UBALDI 10€ par tranche d'achat de 100€).\
-\
-Faites comme moi et profitez d'offres alléchantes en suivant le lien de parrainage : https://www.ubaldi.com/espace-perso/inscription.php?pri=inv&xtor=CS3-1106072762-8870230-20210113-%5BEMAIL%5D
+799€ - 20€ de prime parrainage - 70€ ( réduction via un code directement sur le site UBALDI 10€ par tranche d'achat de 100€).
+
+Faites comme moi et profitez d'offres alléchantes en suivant le lien de parrainage : 
+
+
+
+<a href="https://www.ubaldi.com/p/YjlHLGZ" title="Offre de parrainage sur UBALDI.com" target="_blank"><img src="//medias3-2.ubaldi.com/html_imgs/odp/banniere/300250.jpg" alt="Parrainage UBALDI.com" title="Parrainage UBALDI.com"/></a>
+
+http://www.ubaldi.com/parrainage/?i=bnk4ZkgzOGZmMitQVHc5ZlgwOD0=&h=4082c&xtor=CS3-1106072762-8870230-20210113-\[EMAIL]
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
