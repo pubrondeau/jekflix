@@ -4,13 +4,12 @@ layout: post
 title: Simba Matelas
 subtitle: Simba, matelas innovant
 description: 40 ans d'expertise au service de vos nuits
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821648/theme8_knvabs.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821648/theme8_knvabs.jpg
+image: https://res.cloudinary.com/jekife/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1610570199/Simba_w9mynk.jpg
+optimized_image: https://res.cloudinary.com/jekife/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1610570199/Simba_w9mynk.jpg
 category: tutorial
 tags:
-  - jedi
-  - doggo
-  - starwars
+  - matelas
+  - shpopping  
 author: emmanuelrondeau
 paginate: false
 ---
