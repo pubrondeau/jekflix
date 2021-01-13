@@ -4,8 +4,8 @@ layout: post
 title: UBALDI
 subtitle: Site e-commerce fiable avec plein de promotions
 description: parrainage UBALDI, parmi les 3 meilleurs site e-commerce électronique
-image: https://res.cloudinary.com/jekife/image/upload/v1610552800/ubaldi_hnuyec.jpg
-optimized_image: https://res.cloudinary.com/jekife/image/upload/v1610552800/ubaldi_hnuyec.jpg
+image: https://res.cloudinary.com/jekife/image/upload/v1610556371/ecommerce_dnv6q7.jpg
+optimized_image: https://res.cloudinary.com/jekife/image/upload/v1610556371/ecommerce_dnv6q7.jpg
 category: ecommerce
 tags:
   - electromenager
