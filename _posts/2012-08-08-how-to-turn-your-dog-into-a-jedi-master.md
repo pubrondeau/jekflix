@@ -11,12 +11,10 @@ tags:
   - jedi
   - doggo
   - starwars
-author: thiagorossener
+author: emmanuelrondeau
 paginate: false
 ---
-
-
-2 Oreillers offerts avec votre matelas HYBRID + 50 € sur votre première commande supérieure à 500 € en vous faisant parrainer.
+2 Oreillers offerts avec votre matelas HYBRID + **50 €** sur votre première commande supérieure à 500 € en vous faisant parrainer.
 
 Simba matelas, Je ne connaissais pas. J'ai pris un risque en commandant un matelas sur Internet. Et pourtant je ne regrette pas.
 
@@ -27,12 +25,12 @@ Franchement, je ne suis pas déçu de ce produit. Le matelas est à la fois accu
 Alors faites comme moi, vous et votre dos ne regretterez pas.
 
 Avantages :
-- 200 nuits pour changer d'avis.
-- 50 € offerts sur votre 1ere commande supérieure à 500€
-- 10 ans de garantie
-- produit inovant : 5000 ressorts Aerocoil brevetés en titane
-- livraison gratuite et rapide.
-- parrainage intéressant pour le filleul et le parrain
 
-lien parrainage :
-https://simba.mention-me.com/m/ol/ik2gl-3f427fbf10
+* 200 nuits pour changer d'avis.
+* 50 € offerts sur votre 1ere commande supérieure à 500€
+* 10 ans de garantie
+* produit inovant : 5000 ressorts Aerocoil brevetés en titane
+* livraison gratuite et rapide.
+* parrainage intéressant pour le filleul et le parrain
+
+[Je kife Simba](https://simba.mention-me.com/m/ol/ik2gl-3f427fbf10)
