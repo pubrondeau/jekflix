@@ -2,8 +2,8 @@
 date: 2020-10-22 11:52:52
 layout: post
 title: Boursorama
-subtitle: La banque au quotidien sans frais
-description: La banque au quotidien sans frais
+subtitle: "La banque au quotidien sans frais : 230€ offerts"
+description: "La banque au quotidien sans frais : 230€ offerts"
 image: https://res.cloudinary.com/jekife/image/upload/v1603385614/boursorama_bvurwe.jpg
 optimized_image: https://res.cloudinary.com/jekife/image/upload/c_scale,w_380/v1603385614/boursorama_bvurwe.jpg
 category: code
