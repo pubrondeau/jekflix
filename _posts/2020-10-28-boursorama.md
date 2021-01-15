@@ -19,7 +19,6 @@ paginate: true
 > [Je kife boursorama.](https://bour.so/5QiIQz5DLm)
 
 
-
 Pour la **12ème** année consécutive Boursorama Banque est de nouveau classée **banque la moins chère!**
 
 Plus de **180 €** d’économies en moyenne sur vos frais bancaires.
