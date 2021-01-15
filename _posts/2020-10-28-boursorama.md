@@ -1,5 +1,5 @@
 ---
-date: 2021-01-15 23:09:17
+date: 2021-01-15 23:13:15
 layout: post
 title: Boursorama
 subtitle: "La banque au quotidien sans frais : 230€ offerts"
@@ -14,16 +14,13 @@ paginate: true
 ---
 ### Boursorama vous offre le meilleur !
 
-**230 € offerts (130€**  offerts par Boursorama + **100€** de ma prime) si je vous parraine en suivant le lien "je kife ..."  
+**230 € offerts (**130€  offerts par Boursorama + 100€ de ma prime) si je vous parraine en suivant le lien "je kife ..."  
 
 > [Je kife boursorama.](https://bour.so/5QiIQz5DLm)
-
 
 Pour la **12ème** année consécutive Boursorama Banque est de nouveau classée **banque la moins chère!**
 
 Plus de **180 €** d’économies en moyenne sur vos frais bancaires.
-
-
 
 ### Services proposés gratuitement
 
