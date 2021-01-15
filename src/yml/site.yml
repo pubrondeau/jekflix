@@ -1,8 +1,8 @@
 name: Jekife
-url: https://jekiff.netlify.app/
+url: https://jekife.fr/
 title: Jekife | un site pour trouver un parrain
 description: Jekife est un site pour trouver un parrain chez Boursorama, ING,
-  Planete Oui, Pretup, Sosh
+  Planete Oui, Pretup, Simba
 tags:
   - parrain
   - parrainage
@@ -12,7 +12,7 @@ tags:
   - ing
   - pretup
   - sosh
-show_hero: true
+show_hero: false
 menu:
   - title: Home
     url: /
