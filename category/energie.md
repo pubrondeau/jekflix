@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Energie
-slug: "{{slug}}"
+slug: energie
 description: ""
 ---
