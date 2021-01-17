@@ -8,8 +8,7 @@ image: https://res.cloudinary.com/jekife/image/upload/v1604445949/planeteOui_bva
 optimized_image: https://res.cloudinary.com/jekife/image/upload/v1604445949/planeteOui_bvavwt.jpg
 category: "{{slug}}"
 tags:
-  - life
-  - tips
+  - ecologie
 author: emmanuelrondeau
 paginate: false
 ---
