@@ -6,7 +6,7 @@ subtitle: "La banque au quotidien sans frais : 230€ offerts"
 description: "La banque au quotidien sans frais : 230€ offerts"
 image: https://res.cloudinary.com/jekife/image/upload/v1603385614/boursorama_bvurwe.jpg
 optimized_image: https://res.cloudinary.com/jekife/image/upload/c_scale,w_380/v1603385614/boursorama_bvurwe.jpg
-category: "{{slug}}"
+category: "banque"
 tags:
   - bourse
   - banque
