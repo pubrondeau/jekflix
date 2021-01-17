@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Shopping
-slug: "{{slug}}"
+slug: shopping
 description: Une categorie pour le shopping
 ---
