@@ -1,5 +1,5 @@
 ---
 layout: category
 title: Finance
-slug: "{{slug}}"
+slug: finance
 ---
