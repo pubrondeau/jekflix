@@ -1,5 +1,5 @@
 ---
 layout: category
 title: Matelas
-slug: "{{slug}}"
+slug: matelas
 ---
