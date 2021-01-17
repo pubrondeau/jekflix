@@ -1,5 +1,5 @@
 ---
 layout: category
 title: Banque
-slug: "banque"
+slug: banque
 ---
