@@ -19,13 +19,14 @@ Parctciper aux grandes courses ( vendéee globe, trophées Jules verne, ...) à 
 Vous pouvez vous confrontez à eux, mais aussi à vos voisins, les habitants de votre ville, région, .... \
 \
 Les grandes courses durent 3 mois\
+50 courses par an
+1,5 million de jouerus qui ont succombés. :-)
 \
 Franchement, j'étais sceptique quand j'ai commencé, mais je suis devenu vite féru de ce jeu.
 \
 \
 \
 Avantages :
-
 * Jeu gratuit.
 * qualité du jeux
 * compétition avec vos proches, vos voisins
