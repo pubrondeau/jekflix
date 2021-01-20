@@ -2,7 +2,7 @@
 date: 2021-01-13 22:17:54
 layout: post
 title: VIRTUAL REGATTA
-subtitle: "Virtual regatta : jeu de voile ou l'on peut se battre avbec les meilleurs navigateurs"
+subtitle: "Virtual regatta : jeu de voile ou l'on peut se battre avec les meilleurs navigateurs"
 description: "jeux virtual regatta : que du bonheur à jouer, on se prendrait pour un skipper"
 image: https://res.cloudinary.com/jekife/image/upload/v1611166156/virtualregatta_s7xbyg.jpg
 optimized_image: https://res.cloudinary.com/jekife/image/upload/v1611166156/virtualregatta_s7xbyg.jpg
