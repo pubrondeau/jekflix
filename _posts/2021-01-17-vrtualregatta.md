@@ -14,16 +14,16 @@ author: emmanuelrondeau
 paginate: false
 ---
 
-Parctciper aux grandes courses ( vendéee globe, trophées Jules verne, ...) à la voile comme des pros et avec eux.\
+Parctciper aux grandes courses ( vendéee globe, trophées Jules verne, Route du Rhum, Transat Jacques Vabre, Solitaire Le Figaro, ...) à la voile comme des pros et avec eux.\
 \
 Vous pouvez vous confrontez à eux, mais aussi à vos voisins, les habitants de votre ville, région, .... \
-C'est sympa de faire la course avec Loic Peyron et les skippers du vendée Globe.
-
-
+C'est sympa de faire la course avec Loic Peyron, Jérémie Beyou, Sam Davies et Alex Thomson et les autres skippers du vendée Globe.\
 \
-Les grandes courses durent 3 mois\
+Jeu officiel du Vendée Globe 2020/2021.
+\
 50 courses par an
 1,5 million de jouerus qui ont succombés. :-)
+Les grandes courses durent 3 mois\
 \
 Franchement, j'étais sceptique quand j'ai commencé, mais je suis devenu vite féru de ce jeu.
 \
@@ -38,13 +38,6 @@ Avantages :
 > [Je kife Virtual regatta](https://www.virtualregatta.com/fr/)
 
 
-Jeu officiel du Vendée Globe 2020/2021, Virtual Regatta est la plus grande communauté nautique au monde avec plus de 1 million de joueurs actifs !
-
-Virtual Regatta est un jeu vidéo de simulation de navigation de voile en ligne et de régate gratuit où vous pouvez devenir le skipper de votre bateau face aux "vents des globes". Faites la course contre des centaines de milliers de rivaux en temps réel et affrontez des skippers du Vendée Globe comme Jérémie Beyou, Sam Davies et Alex Thomson depuis votre ordinateur, smartphone ou tablette.
-
-Virtual Regatta est partenaire officiel de la Fédération Mondiale de Voile (World Sailing) avec qui Virtual Regatta co-organise tous les événements officiel de eSailing existants.
-
-Jeu officiel des plus grandes courses à la voile : Vendée Globe, Route du Rhum, Transat Jacques Vabre, Solitaire Le Figaro, prenez la barre de votre bateau et mesurez-vous aux plus noms de la course au large dans Virtual Regatta !
 
 COMMENT JOUER :
 
@@ -63,6 +56,7 @@ COMMENT JOUER :
 • Repérez la position des autres concurrents.
 
 • Programmez un changement de cap.
+
 
 > [Je kife Virtual regatta](https://www.virtualregatta.com/fr/)
 
