@@ -42,4 +42,4 @@ Google Pay, ...) ou  Paylib pour vos achats en ligne et en toute sécurité.
 
 \- Possibilité de devenir parrain tout comme moi
 
-> [Je kife boursorama.](https://bour.so/ETaktIwgT2)
+> [Je kife boursorama.](https://bour.so/nYxuIy1rVJ)
