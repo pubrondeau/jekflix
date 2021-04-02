@@ -1,12 +1,13 @@
 ---
-date: 2021-04-02 12:26:40
+date: 2020-10-30 12:26:40
 layout: post
 title: Planete Oui
-subtitle: Un fournisseur d'électricité verte innovant et pas cher (50€ offerts jusqu'au 30/04/2021)
+subtitle: Un fournisseur d'électricité verte innovant et pas cher (50€ réduciton
+  jusqu'au 30 Avril)
 description: parrainage planete oui, fournisseur electricite verte pas cher
 image: https://res.cloudinary.com/jekife/image/upload/v1604445949/planeteOui_bvavwt.jpg
 optimized_image: https://res.cloudinary.com/jekife/image/upload/v1604445949/planeteOui_bvavwt.jpg
-category: "energie"
+category: energie
 tags:
   - ecologie
 author: emmanuelrondeau
@@ -21,8 +22,7 @@ Planète Oui mérite d'être connue car cette société fait de belles choses po
 
 Perso, çà me fait plaisir d’être chez eux, car ils ont les mêmes convictions que moi à savoir produire de l’énergie verte intelligemment en favorisant les petits producteurs (solaire, éolien, hydaulique, filiere bois). 
 
-**30€ offerts** par Planète Oui + **20€ offerts** de ma prime parrain, **50€ pour vous** en suivant le lien et le code parrain M788392.
-Valable jusqu'au 30/04/2021 pour feter le 100 000ème client.
+**30€ offerts** par Planète Oui + **20€ offerts** de ma prime parrain, **50€ pour vous** en suivant le lien et le code parrain M788392
 
 > [jekife planete oui](https://www.planete-oui.fr/Souscrire/?cpa=M788392)
 
