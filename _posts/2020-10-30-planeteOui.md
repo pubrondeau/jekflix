@@ -1,9 +1,8 @@
 ---
 date: 2021-04-02 13:34:32
 layout: post
-title: Planete Oui
-subtitle: Un fournisseur d'électricité verte innovant et pas cher (50€ réduciton
-  jusqu'au 30 Avril)
+title: Planete Oui - fournisseur d'électricité
+subtitle: Un fournisseur d'électricité verte innovant (50€ réduction jusqu'au 30 Avril)
 description: parrainage planete oui, fournisseur electricite verte pas cher
 image: https://res.cloudinary.com/jekife/image/upload/v1604445949/planeteOui_bvavwt.jpg
 optimized_image: https://res.cloudinary.com/jekife/image/upload/v1604445949/planeteOui_bvavwt.jpg
