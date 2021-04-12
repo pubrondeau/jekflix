@@ -2,7 +2,7 @@
 date: 2021-04-12 14:27:06
 layout: post
 title: Stores et rideaux
-description: le sur-mesure francais à prix correct
+description: le sur mesure francais à prix correct
 image: https://res.cloudinary.com/jekife/image/upload/v1618231142/Stores-et-rideaux_tgxbfb.jpg
 optimized_image: https://res.cloudinary.com/jekife/image/upload/v1618231142/Stores-et-rideaux_tgxbfb.jpg
 category: shopping
