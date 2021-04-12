@@ -7,7 +7,7 @@ image: https://res.cloudinary.com/jekife/image/upload/v1618231142/Stores-et-ride
 optimized_image: https://res.cloudinary.com/jekife/image/upload/v1618231142/Stores-et-rideaux_tgxbfb.jpg
 category: shopping
 tags:
-  - décoration
+  - decoration
 author: emmanuelrondeau
 paginate: false
 ---
