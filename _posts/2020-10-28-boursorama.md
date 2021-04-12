@@ -2,11 +2,11 @@
 date: 2021-01-15 23:13:15
 layout: post
 title: Boursorama
-subtitle: "La banque au quotidien sans frais : 230€ offerts"
-description: "La banque au quotidien sans frais : 230€ offerts"
+subtitle: "La banque au quotidien sans frais : 280€ offerts jusqu'au 14/04 17heures"
+description: "La banque au quotidien sans frais : 280€ offerts"
 image: https://res.cloudinary.com/jekife/image/upload/v1603385614/boursorama_bvurwe.jpg
 optimized_image: https://res.cloudinary.com/jekife/image/upload/c_scale,w_380/v1603385614/boursorama_bvurwe.jpg
-category: "banque"
+category: banque
 tags:
   - bourse
   - banque
@@ -15,7 +15,7 @@ paginate: false
 ---
 ### Boursorama vous offre le meilleur !
 
-**250€ offerts** (**110€**  offerts par Boursorama + **90€** de ma prime + **50€** si Boursorama devient votre banque principale) si je vous parraine en suivant le lien "je kife ..."  
+**280€ offerts** (**130€**  offerts par Boursorama + **100€** de ma prime + **50€** si Boursorama devient votre banque principale) si je vous parraine en suivant le lien "je kife ..."  
 
 > [Je kife boursorama.](https://bour.so/5QiIQz5DLm)
 
