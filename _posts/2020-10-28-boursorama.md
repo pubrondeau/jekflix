@@ -15,7 +15,7 @@ paginate: false
 ---
 ### Boursorama vous offre le meilleur !
 
-**280€ offerts** (**130€**  offerts par Boursorama + **100€** de ma prime + **50€** si Boursorama devient votre banque principale) si je vous parraine en suivant le lien "je kife ..."  
+**200€ offerts** (**80€**  offerts par Boursorama + **70€** de ma prime + **50€** si Boursorama devient votre banque principale) si je vous parraine en suivant le lien "je kife ..."  
 
 > [Je kife boursorama.](https://bour.so/5QiIQz5DLm)
 
