@@ -2,7 +2,7 @@
 date: 2021-01-15 23:13:15
 layout: post
 title: Boursorama
-subtitle: "La banque au quotidien sans frais : 280€ offerts jusqu'au 14/04 17heures"
+subtitle: "La banque au quotidien sans frais : 200€ offerts"
 description: "La banque au quotidien sans frais : 280€ offerts"
 image: https://res.cloudinary.com/jekife/image/upload/v1603385614/boursorama_bvurwe.jpg
 optimized_image: https://res.cloudinary.com/jekife/image/upload/c_scale,w_380/v1603385614/boursorama_bvurwe.jpg
