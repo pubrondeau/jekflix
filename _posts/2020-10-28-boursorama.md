@@ -17,7 +17,7 @@ paginate: false
 
 **200€ offerts** (**80€**  offerts par Boursorama + **70€** de ma prime + **50€** si Boursorama devient votre banque principale) si je vous parraine en suivant le lien "je kife ..."  
 
-> [Je kife boursorama.](https://bour.so/5QiIQz5DLm)
+code parrain = EMRO0650
 
 Pour la **12ème** année consécutive Boursorama Banque est de nouveau classée **banque la moins chère!**
 
@@ -42,4 +42,4 @@ Google Pay, ...) ou  Paylib pour vos achats en ligne et en toute sécurité.
 
 \- Possibilité de devenir parrain tout comme moi
 
-> [Je kife boursorama.](https://bour.so/nYxuIy1rVJ)
+coe parrain = EMRO0650
