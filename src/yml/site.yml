@@ -1,8 +1,8 @@
 name: Jekife
 url: https://jekife.fr/
 title: Jekife | un site pour trouver un parrain
-description: Jekife est un site pour trouver un parrain chez Boursorama, ING,
-  Planete Oui, Pretup, Simba
+description: Jekife est un site pour trouver un parrain chez Fortuneo, Boursorama,
+  Planete Oui, Pretup, Simba, Rakuten, Vinted, Ubaldi, Veepee, Stores et rideaux
 tags:
   - parrain
   - parrainage
@@ -11,7 +11,9 @@ tags:
   - boursorama
   - ing
   - pretup
-  - sosh
+  - fortuneo
+  - rakuten
+  - vinted
 show_hero: true
 menu:
   - title: Home
