@@ -45,6 +45,7 @@ translations:
       email: email
       message: message
     subject: sujet    
+    submit_btn: envoyer
     errors:
       empty_name: nom oligatoire
       empty_email: email obligatoire
