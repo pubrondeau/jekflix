@@ -39,5 +39,6 @@ translations:
     search: Chercher
     share : Partager
   contact:
-    title: Besoin d''aide, n''hesitez pas à m''envoyer un petit mail
-    
+    title: Besoin d'aide, n'hesitez pas à m'envoyer un petit mail
+    name: nom    
+    subject: sujet    
