@@ -40,5 +40,13 @@ translations:
     share : Partager
   contact:
     title: Besoin d'aide, n'hesitez pas à m'envoyer un petit mail
-    name: nom    
+    placeholders:
+      name: nom    
+      email: email
+      message: message
     subject: sujet    
+    errors:
+      empty_name: nom oligatoire
+      empty_email: email obligatoire
+      invalid_email: email invalide
+      empty_message : message obligatoire    
