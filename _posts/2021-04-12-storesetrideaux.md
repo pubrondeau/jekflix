@@ -1,7 +1,7 @@
 ---
 date: 2022-06-24 15:13:28
 layout: post
-title: parrainage STORES ET RIDEAUX : 10% de remise sur votre 1ère commande
+title: parrainage STORES ET RIDEAUX : 10% de remise sur votre premiere commande
 subtitle: le spécialiste francais qui fait tout a vos mesures
 description: 10% de remise sur votre commande
 image: https://res.cloudinary.com/jekife/image/upload/v1618231142/Stores-et-rideaux_tgxbfb.jpg
