@@ -1,8 +1,32 @@
-name: Jekife
+translations:
+  button:
+    read_now: Voir
+  recommendation:
+    text: Pourquoi ne pas lire un autre article?
+    back_btn: Retour en haut
+  text:
+    see_also: Voir aussi
+    search: Chercher
+    share: Partager
+  contact:
+    title: Besoin d'aide, n'hesitez pas à m'envoyer un petit mail
+    placeholders:
+      name: nom
+      email: email
+      message: message
+    subject: sujet
+    submit_btn: envoyer
+    errors:
+      empty_name: nom oligatoire
+      empty_email: email obligatoire
+      invalid_email: email invalide
+      empty_message: message obligatoire
+name: Jekiffe
 url: https://jekife.fr/
-title: Jekife | un site pour trouver un parrain
-description: Jekife est un site pour trouver un parrain chez Fortuneo, Boursorama,
-  Bricks, Pretup, Simba, Rakuten, Vinted, Ubaldi, Veepee, Stores et rideaux
+title: Jekiffe | un site pour trouver un parrain
+description: Jekiffe est un site pour trouver un parrain chez Fortuneo,
+  Boursorama, Bricks, Pretup, Simba, Rakuten, Vinted, Ubaldi, Veepee, Stores et
+  rideaux
 tags:
   - parrain
   - parrainage
@@ -29,26 +53,3 @@ menu:
     url: /feed.xml
 email: super-parrain@jekife.fr
 disqus_username: ""
-translations:
-  button:
-     read_now: Voir
-  recommendation:
-     text: Pourquoi ne pas lire un autre article?
-     back_btn: Retour en haut
-  text:
-    see_also: Voir aussi
-    search: Chercher
-    share : Partager
-  contact:
-    title: Besoin d'aide, n'hesitez pas à m'envoyer un petit mail
-    placeholders:
-      name: nom    
-      email: email
-      message: message
-    subject: sujet    
-    submit_btn: envoyer
-    errors:
-      empty_name: nom oligatoire
-      empty_email: email obligatoire
-      invalid_email: email invalide
-      empty_message : message obligatoire    
